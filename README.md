@@ -3,7 +3,7 @@
 
 ## 🚀 Tech Stack
 - **Language**: Java 24
-- **Test Framework**: JUnit 5
+- **Test Framework**: Playwright,JUnit 5
 - **Browser Automation**: Playwright
 - **Reporting**: Allure 2
 - **Build Tool**: Maven
@@ -74,3 +74,6 @@ mvn allure:report
 ## ⚙️View report locally:
 ``bash
 mvn allure:serve
+
+## ⚙️Video Record :
+https://drive.google.com/file/d/1EzP8eggmuS4PLTfbG-Ly9DanHDdqHRkW/view?usp=drive_link
